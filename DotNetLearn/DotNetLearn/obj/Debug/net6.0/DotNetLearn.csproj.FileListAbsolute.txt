@@ -1,0 +1,15 @@
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/bin/Debug/net6.0/DotNetLearn
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/bin/Debug/net6.0/DotNetLearn.deps.json
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/bin/Debug/net6.0/DotNetLearn.runtimeconfig.json
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/bin/Debug/net6.0/DotNetLearn.dll
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/bin/Debug/net6.0/DotNetLearn.pdb
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/obj/Debug/net6.0/DotNetLearn.csproj.AssemblyReference.cache
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/obj/Debug/net6.0/DotNetLearn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/obj/Debug/net6.0/DotNetLearn.AssemblyInfoInputs.cache
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/obj/Debug/net6.0/DotNetLearn.AssemblyInfo.cs
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/obj/Debug/net6.0/DotNetLearn.csproj.CoreCompileInputs.cache
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/obj/Debug/net6.0/DotNetLearn.dll
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/obj/Debug/net6.0/refint/DotNetLearn.dll
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/obj/Debug/net6.0/DotNetLearn.pdb
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/obj/Debug/net6.0/DotNetLearn.genruntimeconfig.cache
+/Users/sam/Documents/GitHub/literateDotNetCS/DotNetLearn/DotNetLearn/obj/Debug/net6.0/ref/DotNetLearn.dll

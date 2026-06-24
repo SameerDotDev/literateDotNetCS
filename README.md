@@ -1,2 +1,0 @@
-# literateDotNetCS
-Dot.net
